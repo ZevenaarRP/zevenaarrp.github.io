@@ -1,2 +1,1 @@
-# zevenaarrp.github.io
-Zevenaar ingame regels
+Zevenaar Ingame Regels
